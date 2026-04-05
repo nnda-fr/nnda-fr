@@ -2,7 +2,7 @@
  
  Perkenalkan nama saya **Ananda Safrida**.<br>
  
- Saya seorang **Mahasiswa Teknik Informatika** di Universitas Al-Khairiyah.<br>
+ Saya **Mahasiswa Teknik Informatika** di Universitas Al-Khairiyah.<br>
  
  Saya juga sedang mengikuti program Coding Camp Powered By DBS Foundation 2026 
  
