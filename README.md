@@ -1,12 +1,12 @@
 # Halo semua! 
  
-Perkenalkan nama saya **Ananda Safrida**.<br>
+ Perkenalkan nama saya **Ananda Safrida**.<br>
  
-Saya seorang **Mahasiswa Teknik Informatika** di Universitas Al-Khairiyah.<br>
+ Saya seorang **Mahasiswa Teknik Informatika** di Universitas Al-Khairiyah.<br>
  
-Saya juga sedang mengikuti program Coding Camp Powered By DBS Foundation 2026 
+ Saya juga sedang mengikuti program Coding Camp Powered By DBS Foundation 2026 
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ananda-safrida-680459304/) ku ya.
+ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ananda-safrida-680459304/) ku ya.
  
 ### Github Statistic
 <p align="left">
